@@ -1,0 +1,23 @@
+#centerdiv{
+  border-left: 5px solid #12A1DC;
+  border-right: 5px solid #12A1DC;
+}
+@font-face {
+  font-family: CoolFont;
+  src: url(NotoSans-Regular.ttf);
+}
+#head{
+  font-family: CoolFont;
+}
+a{
+  font-family: CoolFont;
+  color: #B71212
+}
+body{
+    Color: #1212B7;
+    background: #DDDDFF;
+}
+#hr{
+  color: #12A1DC;
+  height: 5px;
+}
